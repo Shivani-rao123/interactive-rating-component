@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://shivani-rao123.github.io/interactive-rating-component/)
-- Live Site URL: [Add live site URL here](https://shivani-rao123.github.io/interactive-rating-component/)
+- Solution URL: (https://shivani-rao123.github.io/interactive-rating-component/)
+- Live Site URL: (https://shivani-rao123.github.io/interactive-rating-component/)
 
 ## My process
 
